@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+oBcaOpZy3tvoMqf+0oYSqE2XirmuZLBKlrDr+86krLwOfiBvrvPr9y3EdjPKMkR9R0588aa7ZtTq4PwhIYgOA==",
+  "dgSpecHash": "vIB2WLT8pMmRw6IPrWaKN+Md9h/+GCZCIk/RvvweVGvSx5JH5zqgmODEUFxWCFjBFkY7zZERETSTSfhoCeycpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rprad\\source\\repos\\CURDopertiondotnetCore\\CURDopertiondotnetCore\\CURDopertiondotnetCore.csproj",
+  "projectFilePath": "C:\\Users\\rprad\\source\\repos\\New Repo\\CURDopertiondotnetCore\\CURDopertiondotnetCore\\CURDopertiondotnetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rprad\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\rprad\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

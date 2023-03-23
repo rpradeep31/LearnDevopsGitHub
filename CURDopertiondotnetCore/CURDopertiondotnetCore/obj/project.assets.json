@@ -3592,11 +3592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rprad\\source\\repos\\CURDopertiondotnetCore\\CURDopertiondotnetCore\\CURDopertiondotnetCore.csproj",
+      "projectUniqueName": "C:\\Users\\rprad\\source\\repos\\New Repo\\CURDopertiondotnetCore\\CURDopertiondotnetCore\\CURDopertiondotnetCore.csproj",
       "projectName": "CURDopertiondotnetCore",
-      "projectPath": "C:\\Users\\rprad\\source\\repos\\CURDopertiondotnetCore\\CURDopertiondotnetCore\\CURDopertiondotnetCore.csproj",
+      "projectPath": "C:\\Users\\rprad\\source\\repos\\New Repo\\CURDopertiondotnetCore\\CURDopertiondotnetCore\\CURDopertiondotnetCore.csproj",
       "packagesPath": "C:\\Users\\rprad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rprad\\source\\repos\\CURDopertiondotnetCore\\CURDopertiondotnetCore\\obj\\",
+      "outputPath": "C:\\Users\\rprad\\source\\repos\\New Repo\\CURDopertiondotnetCore\\CURDopertiondotnetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rprad\\AppData\\Roaming\\NuGet\\NuGet.Config",
