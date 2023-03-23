@@ -10,6 +10,7 @@ namespace LearnDevopsGitHub.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //Let do changes
             _logger = logger;
         }
 
