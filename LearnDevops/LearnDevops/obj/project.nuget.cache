@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wsdc71HRi62QAQ6mf6pRnULjaQLzEFXpgSf87aN5j/PZ9unN2s5aOJZhHAZRZhIr/PRMMIJw2uh6TgOnRPkmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rprad\\source\\repos\\LearnDevopsGitHub\\LearnDevops\\LearnDevops\\LearnDevops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rprad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
